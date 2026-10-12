@@ -1,0 +1,6 @@
+{
+  "name": "ALPHA MOVE — Archival Streetwear Drop",
+  "description": "Официальный магазин лимитированного дропа ALPHA MOVE: оверсайз zip-худи кислотной варки и широкие baggy джинсы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
